@@ -1,5 +1,7 @@
 import java.io.*;
 import java.util.*;
+public class clinic
+
 class staff
 {
     String sid, sname, desg, sex;
