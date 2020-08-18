@@ -1,8 +1,7 @@
 import java.io.*;
 import java.util.*;
 public class clinic
-
-
+{
 class doctor
 {
     String did, dname, specilist, appoint, doc_qual;
@@ -205,6 +204,7 @@ class patient
             status = input.nextInt();
         }
     }
+}
 }
 
 
